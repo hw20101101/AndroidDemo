@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="list_items">
+        <item>iPhone 6__145$</item>
+        <item>iPhone 7__245$</item>
+        <item>iPhone 8__345$</item>
+        <item>iPhone 9__545$</item>
+    </string-array>
+</resources>
